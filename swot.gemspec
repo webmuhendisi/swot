@@ -7482,6 +7482,7 @@ Gem::Specification.new do |s|
     "lib/domains/tr/edu/anadolu.txt",
     "lib/domains/tr/edu/ankara.txt",
     "lib/domains/tr/edu/arel.txt",
+    "lib/domains/tr/edu/arucad.txt",
     "lib/domains/tr/edu/atauni.txt",
     "lib/domains/tr/edu/atilim.txt",
     "lib/domains/tr/edu/bahcesehir.txt",
